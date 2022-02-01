@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... HTML and CSS
 - 📫 How to reach me: instagram/e-mail
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm beginner lvl
+- I'm newbie 😺
 <div display=flex;>
   <a href="https://github.com/ThiagoJyum5">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoJyum5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
