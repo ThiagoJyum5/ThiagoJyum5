@@ -1,6 +1,6 @@
 <h1> Hello someone!</h1>
 
-- 🌱 I’m currently learning ... HTML and CSS
+- 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me: instagram/e-mail
 - 😄 Pronouns: he/him
 - I'm newbie 😺
